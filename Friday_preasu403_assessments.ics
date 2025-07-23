@@ -3,86 +3,146 @@ VERSION:2.0
 PRODID:-//xAI//Grok 3//EN
 BEGIN:VEVENT
 UID:20250815T090000Z-academic-skills-assessment1-class2@xai
-DTSTAMP:20250723T152900Z
+DTSTAMP:20250723T080045Z
 DTSTART:20250815T010000Z
 DTEND:20250815T010000Z
 SUMMARY:Academic Skills Assessment 1: Knowledge (Theory)
 DESCRIPTION:Online assessment with short and multiple-choice answers. Open-book, complete anytime before due date.
 PRIORITY:5
 BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 1: Knowledge (Theory) due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 1: Knowledge (Theory) due in 3 days
+END:VALARM
+BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Academic Skills Assessment 1 due tomorrow
+DESCRIPTION:Reminder: Academic Skills Assessment 1: Knowledge (Theory) due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20250926T090000Z-academic-skills-assessment2a-class2@xai
-DTSTAMP:20250723T152900Z
+DTSTAMP:20250723T080045Z
 DTSTART:20250926T010000Z
 DTEND:20250926T010000Z
 SUMMARY:Academic Skills Assessment 2A: Planning & Research Activities
 DESCRIPTION:7 tasks completed in-class and out-of-class, assessing research preparation for Assessment 2B.
 PRIORITY:5
 BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2A: Planning & Research Activities due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2A: Planning & Research Activities due in 3 days
+END:VALARM
+BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Academic Skills Assessment 2A due tomorrow
+DESCRIPTION:Reminder: Academic Skills Assessment 2A: Planning & Research Activities due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20251017T090000Z-academic-skills-assessment2b-class2@xai
-DTSTAMP:20250723T152900Z
+DTSTAMP:20250723T080045Z
 DTSTART:20251017T010000Z
 DTEND:20251017T010000Z
 SUMMARY:Academic Skills Assessment 2B: 1000-Word Research Report
 DESCRIPTION:Write a 1000-word report on your allocated health topic. No extensions allowed.
 PRIORITY:1
 BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2B: 1000-Word Research Report due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2B: 1000-Word Research Report due in 3 days
+END:VALARM
+BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Academic Skills Assessment 2B due tomorrow
+DESCRIPTION:Reminder: Academic Skills Assessment 2B: 1000-Word Research Report due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20251031T090000Z-academic-skills-assessment2c-part1-class2@xai
-DTSTAMP:20250723T152900Z
+DTSTAMP:20250723T080045Z
 DTSTART:20251031T010000Z
 DTEND:20251031T010000Z
 SUMMARY:Academic Skills Assessment 2C Part 1: Academic Poster
 DESCRIPTION:Create a group academic poster based on Assessment 2B reports.
 PRIORITY:1
 BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 1: Academic Poster due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 1: Academic Poster due in 3 days
+END:VALARM
+BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 1 due tomorrow
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 1: Academic Poster due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20251031T090000Z-academic-skills-assessment2c-part2-week14-class2@xai
-DTSTAMP:20250723T152900Z
+DTSTAMP:20250723T080045Z
 DTSTART:20251031T010000Z
 DTEND:20251031T010000Z
 SUMMARY:Academic Skills Assessment 2C Part 2: Poster Presentation (Week 14)
 DESCRIPTION:Present the academic poster as a team, using visual aids suited to the content.
 PRIORITY:1
 BEGIN:VALARM
-TRIGGER:-P2D
+TRIGGER:-P6D
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Academic Skills Poster Presentation due in 2 days
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 2: Poster Presentation (Week 14) due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 2: Poster Presentation (Week 14) due in 3 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 2: Poster Presentation (Week 14) due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20251107T090000Z-academic-skills-assessment2c-part2-week15-class2@xai
-DTSTAMP:20250723T152900Z
+DTSTAMP:20250723T080045Z
 DTSTART:20251107T010000Z
 DTEND:20251107T010000Z
 SUMMARY:Academic Skills Assessment 2C Part 2: Poster Presentation (Week 15)
 DESCRIPTION:Present the academic poster as a team, using visual aids suited to the content.
 PRIORITY:1
 BEGIN:VALARM
-TRIGGER:-P2D
+TRIGGER:-P6D
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Academic Skills Poster Presentation due in 2 days
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 2: Poster Presentation (Week 15) due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 2: Poster Presentation (Week 15) due in 3 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 2: Poster Presentation (Week 15) due tomorrow
 END:VALARM
 END:VEVENT
 END:VCALENDAR

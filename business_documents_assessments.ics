@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//xAI//Grok 3//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20250821T090000Z-business-documents-assessment1@xai
+DTSTAMP:20250724T053600Z
+DTSTART:20250821T010000Z
+DTEND:20250821T010000Z
+SUMMARY:Business Documents Assessment 1: Knowledge Assessment
+DESCRIPTION:Online assessment with short and multiple-choice answers. Open-book, complete anytime before due date.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 1 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20250911T090000Z-business-documents-assessment2-task1@xai
+DTSTAMP:20250724T053600Z
+DTSTART:20250911T010000Z
+DTEND:20250911T010000Z
+SUMMARY:Business Documents Assessment 2 Task 1: Resume
+DESCRIPTION:Design and produce a personalized resume suitable for working in healthcare.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 1 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20250918T090000Z-business-documents-assessment2-task2@xai
+DTSTAMP:20250724T053600Z
+DTSTART:20250918T010000Z
+DTEND:20250918T010000Z
+SUMMARY:Business Documents Assessment 2 Task 2: Health Information PowerPoint
+DESCRIPTION:Create a PowerPoint on any health topic of your choice using design skills.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 2 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251009T090000Z-business-documents-assessment2-task3@xai
+DTSTAMP:20250724T053600Z
+DTSTART:20251009T010000Z
+DTEND:20251009T010000Z
+SUMMARY:Business Documents Assessment 2 Task 3: Business Letter
+DESCRIPTION:Apply formatting to a business letter as per instructions (Appendix 2).
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 3 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251023T090000Z-business-documents-assessment2-task4@xai
+DTSTAMP:20250724T053600Z
+DTSTART:20251023T010000Z
+DTEND:20251023T010000Z
+SUMMARY:Business Documents Assessment 2 Task 4: Checklist
+DESCRIPTION:Create a morning checklist for nurses in the simulated ward using Excel.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 4 due tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//xAI//Grok 3//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20250822T090000Z-business-documents-assessment1-class2@xai
+DTSTAMP:20250725T013900Z
+DTSTART:20250822T010000Z
+DTEND:20250822T010000Z
+SUMMARY:Business Documents Assessment 1: Knowledge Assessment
+DESCRIPTION:Online assessment with short and multiple-choice answers. Open-book, complete anytime before due date.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 1 due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 1 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20250905T090000Z-business-documents-assessment1-resubmission-class2@xai
+DTSTAMP:20250725T013900Z
+DTSTART:20250905T010000Z
+DTEND:20250905T010000Z
+SUMMARY:Business Documents Assessment 1 Resubmission
+DESCRIPTION:Resubmission for online assessment with short and multiple-choice answers.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 1 Resubmission due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 1 Resubmission due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20250912T090000Z-business-documents-assessment2-task1-class2@xai
+DTSTAMP:20250725T013900Z
+DTSTART:20250912T010000Z
+DTEND:20250912T010000Z
+SUMMARY:Business Documents Assessment 2 Task 1: Resume
+DESCRIPTION:Design and produce a personalized resume suitable for working in healthcare.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 1 due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 1 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20250926T090000Z-business-documents-assessment2-task1-resubmission-class2@xai
+DTSTAMP:20250725T013900Z
+DTSTART:20250926T010000Z
+DTEND:20250926T010000Z
+SUMMARY:Business Documents Assessment 2 Task 1 Resubmission
+DESCRIPTION:Resubmission for personalized resume suitable for working in healthcare.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 1 Resubmission due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 1 Resubmission due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20250919T090000Z-business-documents-assessment2-task2-class2@xai
+DTSTAMP:20250725T013900Z
+DTSTART:20250919T010000Z
+DTEND:20250919T010000Z
+SUMMARY:Business Documents Assessment 2 Task 2: Health Information PowerPoint
+DESCRIPTION:Create a PowerPoint on any health topic of your choice using design skills.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 2 due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 2 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251010T090000Z-business-documents-assessment2-task2-resubmission-class2@xai
+DTSTAMP:20250725T013900Z
+DTSTART:20251010T010000Z
+DTEND:20251010T010000Z
+SUMMARY:Business Documents Assessment 2 Task 2 Resubmission
+DESCRIPTION:Resubmission for PowerPoint on any health topic of your choice.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 2 Resubmission due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 2 Resubmission due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251010T090000Z-business-documents-assessment2-task3-class2@xai
+DTSTAMP:20250725T013900Z
+DTSTART:20251010T010000Z
+DTEND:20251010T010000Z
+SUMMARY:Business Documents Assessment 2 Task 3: Business Letter
+DESCRIPTION:Apply formatting to a business letter as per instructions (Appendix 2).
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 3 due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 3 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251024T090000Z-business-documents-assessment2-task3-resubmission-class2@xai
+DTSTAMP:20250725T013900Z
+DTSTART:20251024T010000Z
+DTEND:20251024T010000Z
+SUMMARY:Business Documents Assessment 2 Task 3 Resubmission
+DESCRIPTION:Resubmission for formatted business letter (Appendix 2).
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 3 Resubmission due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 3 Resubmission due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251024T090000Z-business-documents-assessment2-task4-class2@xai
+DTSTAMP:20250725T013900Z
+DTSTART:20251024T010000Z
+DTEND:20251024T010000Z
+SUMMARY:Business Documents Assessment 2 Task 4: Checklist
+DESCRIPTION:Create a morning checklist for nurses in the simulated ward using Excel.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 4 due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 4 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251031T090000Z-business-documents-assessment2-task4-resubmission-class2@xai
+DTSTAMP:20250725T013900Z
+DTSTART:20251031T010000Z
+DTEND:20251031T010000Z
+SUMMARY:Business Documents Assessment 2 Task 4 Resubmission
+DESCRIPTION:Resubmission for morning checklist for nurses in Excel.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 4 Resubmission due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Business Documents Assessment 2 Task 4 Resubmission due tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR

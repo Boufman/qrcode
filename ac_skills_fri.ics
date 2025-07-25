@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//xAI//Grok 3//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20250815T235900Z-academic-skills-assessment1-class2@xai
+DTSTAMP:20250725T014100Z
+DTSTART:20250815T155900Z
+DTEND:20250815T155900Z
+SUMMARY:Academic Skills Assessment 1: Knowledge (Theory)
+DESCRIPTION:Online assessment with short and multiple-choice answers. Open-book, complete anytime before due date.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 1 due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 1 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20250829T235900Z-academic-skills-assessment1-resubmission-class2@xai
+DTSTAMP:20250725T014100Z
+DTSTART:20250829T155900Z
+DTEND:20250829T155900Z
+SUMMARY:Academic Skills Assessment 1 Resubmission
+DESCRIPTION:Resubmission for online assessment with short and multiple-choice answers.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 1 Resubmission due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 1 Resubmission due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20250926T235900Z-academic-skills-assessment2a-class2@xai
+DTSTAMP:20250725T014100Z
+DTSTART:20250926T155900Z
+DTEND:20250926T155900Z
+SUMMARY:Academic Skills Assessment 2A: Planning & Research Activities
+DESCRIPTION:7 tasks completed in-class and out-of-class, assessing research preparation for Assessment 2B.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2A due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2A due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251010T235900Z-academic-skills-assessment2a-resubmission-class2@xai
+DTSTAMP:20250725T014100Z
+DTSTART:20251010T155900Z
+DTEND:20251010T155900Z
+SUMMARY:Academic Skills Assessment 2A Resubmission
+DESCRIPTION:Resubmission for 7 tasks assessing research preparation for Assessment 2B.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2A Resubmission due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2A Resubmission due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251010T235900Z-academic-skills-assessment2b-class2@xai
+DTSTAMP:20250725T014100Z
+DTSTART:20251010T155900Z
+DTEND:20251010T155900Z
+SUMMARY:Academic Skills Assessment 2B: 1000-Word Research Report
+DESCRIPTION:Write a 1000-word report on your allocated health topic. No extensions allowed.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2B due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2B due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251024T235900Z-academic-skills-assessment2b-resubmission-class2@xai
+DTSTAMP:20250725T014100Z
+DTSTART:20251024T155900Z
+DTEND:20251024T155900Z
+SUMMARY:Academic Skills Assessment 2B Resubmission
+DESCRIPTION:Resubmission for 1000-word report on your allocated health topic.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2B Resubmission due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2B Resubmission due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251024T235900Z-academic-skills-assessment2c-part1-class2@xai
+DTSTAMP:20250725T014100Z
+DTSTART:20251024T155900Z
+DTEND:20251024T155900Z
+SUMMARY:Academic Skills Assessment 2C Part 1: Academic Poster
+DESCRIPTION:Create a group academic poster based on Assessment 2B reports.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 1 due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 1 due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251107T235900Z-academic-skills-assessment2c-part1-resubmission-class2@xai
+DTSTAMP:20250725T014100Z
+DTSTART:20251107T155900Z
+DTEND:20251107T155900Z
+SUMMARY:Academic Skills Assessment 2C Part 1 Resubmission
+DESCRIPTION:Resubmission for group academic poster based on Assessment 2B reports.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 1 Resubmission due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Assessment 2C Part 1 Resubmission due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251024T235900Z-academic-skills-assessment2c-part2-week14-class2@xai
+DTSTAMP:20250725T014100Z
+DTSTART:20251024T155900Z
+DTEND:20251024T155900Z
+SUMMARY:Academic Skills Assessment 2C Part 2: Poster Presentation (Week 14)
+DESCRIPTION:Present the academic poster as a team, using visual aids suited to the content.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Poster Presentation (Week 14) due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Poster Presentation (Week 14) due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20251031T235900Z-academic-skills-assessment2c-part2-week15-class2@xai
+DTSTAMP:20250725T014100Z
+DTSTART:20251031T155900Z
+DTEND:20251031T155900Z
+SUMMARY:Academic Skills Assessment 2C Part 2: Poster Presentation (Week 15)
+DESCRIPTION:Present the academic poster as a team, using visual aids suited to the content.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Poster Presentation (Week 15) due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Academic Skills Poster Presentation (Week 15) due tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR

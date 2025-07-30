@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Qirium//Physics Chem Calendar//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:qirium-physics-chem-assessment1a-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20250924T010000Z
+DTEND:20250924T010000Z
+SUMMARY:Physics/Chem Assessment 1A: Knowledge Assessment
+DESCRIPTION:Out-of-class assessment with questions on the knowledge component.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 1A due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 1A due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-physics-chem-assessment1a-resit-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251015T010000Z
+DTEND:20251015T010000Z
+SUMMARY:Physics/Chem Assessment 1A Resit
+DESCRIPTION:Resit for out-of-class knowledge assessment.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 1A Resit due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 1A Resit due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-physics-chem-assessment1b-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251029T010000Z
+DTEND:20251029T010000Z
+SUMMARY:Physics/Chem Assessment 1B: Chemistry Presentation
+DESCRIPTION:Out-of-class multi-modal presentation. Refer to Blackboard document.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 1B due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 1B due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-physics-chem-assessment1b-resit-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251112T010000Z
+DTEND:20251112T010000Z
+SUMMARY:Physics/Chem Assessment 1B Resit
+DESCRIPTION:Resit for multi-modal presentation.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 1B Resit due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 1B Resit due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-physics-chem-assessment2a-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251105T010000Z
+DTEND:20251105T010000Z
+SUMMARY:Physics/Chem Assessment 2A: Supervised Assessment 2024
+DESCRIPTION:Timed Blackboard knowledge assessment under supervision on campus.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 2A due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 2A due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-physics-chem-assessment2a-resit-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251119T010000Z
+DTEND:20251119T010000Z
+SUMMARY:Physics/Chem Assessment 2A Resit
+DESCRIPTION:Resit for timed Blackboard knowledge assessment.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 2A Resit due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 2A Resit due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-physics-chem-assessment2b-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20250924T010000Z
+DTEND:20250924T010000Z
+SUMMARY:Physics/Chem Assessment 2B: Practical Measurement Skills 2024
+DESCRIPTION:On-campus assessment with practical measurement skills, picture evidence, and volume measurement quiz.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 2B due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 2B due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-physics-chem-assessment2b-resit-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251001T010000Z
+DTEND:20251001T010000Z
+SUMMARY:Physics/Chem Assessment 2B Resit
+DESCRIPTION:Resit for practical measurement skills, picture evidence, and volume measurement quiz.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 2B Resit due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Physics/Chem Assessment 2B Resit due tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR

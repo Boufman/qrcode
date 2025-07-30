@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Qirium//Anatomy Calendar//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:qirium-anatomy-assessment1a-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20250917T010000Z
+DTEND:20250917T010000Z
+SUMMARY:Anatomy Assessment 1A: Knowledge Assessment 2025
+DESCRIPTION:Online quiz, untimed, individual practical assessment completed at home.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1A due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1A due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-anatomy-assessment1a-resit-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251008T010000Z
+DTEND:20251008T010000Z
+SUMMARY:Anatomy Assessment 1A Resit
+DESCRIPTION:Resit for online quiz, untimed, individual practical assessment completed at home.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1A Resit due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1A Resit due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-anatomy-assessment1b-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251029T010000Z
+DTEND:20251029T010000Z
+SUMMARY:Anatomy Assessment 1B: Knowledge Assessment
+DESCRIPTION:Online quiz, untimed, individual practical assessment completed at home.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1B due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1B due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-anatomy-assessment1b-resit-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251112T010000Z
+DTEND:20251112T010000Z
+SUMMARY:Anatomy Assessment 1B Resit
+DESCRIPTION:Resit for online quiz, untimed, individual practical assessment completed at home.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1B Resit due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1B Resit due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-anatomy-assessment1c-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251105T010000Z
+DTEND:20251105T010000Z
+SUMMARY:Anatomy Assessment 1C: Homeostasis Presentation
+DESCRIPTION:Multimodal presentation, untimed, completed at home.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1C due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1C due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-anatomy-assessment1c-resit-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20251119T010000Z
+DTEND:20251119T010000Z
+SUMMARY:Anatomy Assessment 1C Resit
+DESCRIPTION:Resit for multimodal presentation, untimed, completed at home.
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1C Resit due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 1C Resit due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-anatomy-assessment2a-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20250820T010000Z
+DTEND:20250820T010000Z
+SUMMARY:Anatomy Assessment 2A: Supervised Assessment 2025
+DESCRIPTION:Timed Blackboard quiz under supervision on campus. Refer to Blackboard for details.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 2A due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 2A due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-anatomy-assessment2a-resit-wednesday
+DTSTAMP:20250729T131500Z
+DTSTART:20250924T010000Z
+DTEND:20250924T010000Z
+SUMMARY:Anatomy Assessment 2A Resit
+DESCRIPTION:Resit for timed Blackboard quiz under supervision on campus.
+PRIORITY:1
+BEGIN:VALARM
+TRIGGER:-P6D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 2A Resit due in 6 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Anatomy Assessment 2A Resit due tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qirium-anatomy-assessment2b-wednesday
+DTSTAMP:20250729T131500Z

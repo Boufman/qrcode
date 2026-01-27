@@ -1,70 +1,79 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Qirium//PhysicsChem Fri 2026//EN
+PRODID:-//Qirium//Physics Chemistry Assessments 2026 Fri Class//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+
 BEGIN:VEVENT
-UID:a2b1@qirium
+UID:qirium-a2b-attempt1
 DTSTAMP:20260127T020000Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
-SUMMARY:Assessment 2B (Attempt 1) Physics Practical (Fri class)
-DESCRIPTION:On-campus practical + volume quiz. 2 hours.
+SUMMARY:Assessment 2B (Attempt 1): Physics Practical Measurements
+DESCRIPTION:On-campus practical assessment. Measurement skills and volume quiz. Duration: 2 hours.
 END:VEVENT
+
 BEGIN:VEVENT
-UID:a1a1@qirium
-DTSTAMP:20260127T020000Z
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
-SUMMARY:Assessment 1A (Attempt 1) Physics Knowledge (Fri class)
-DESCRIPTION:In-class supervised open book theory assessment.
-END:VEVENT
-BEGIN:VEVENT
-UID:a2bR@qirium
-DTSTAMP:20260127T020000Z
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
-SUMMARY:Assessment 2B Resit Physics Practical (Fri class)
-DESCRIPTION:Resit. On-campus. 2 hours.
-END:VEVENT
-BEGIN:VEVENT
-UID:a1aR@qirium
+UID:qirium-a1a-attempt1
 DTSTAMP:20260127T020000Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:Assessment 1A Resit Physics Knowledge (Fri class)
-DESCRIPTION:Resit for supervised open book theory assessment.
+SUMMARY:Assessment 1A (Attempt 1): Physics Knowledge Assessment
+DESCRIPTION:In-class supervised open book theory assessment.
 END:VEVENT
+
 BEGIN:VEVENT
-UID:a1b1@qirium
+UID:qirium-a2b-resit
 DTSTAMP:20260127T020000Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Assessment 1B (Attempt 1) Chemistry Presentation (Fri class)
-DESCRIPTION:Out-of-class multimodal presentation. See Blackboard.
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Assessment 2B Resit: Physics Practical Measurements
+DESCRIPTION:Resit assessment. On-campus. Duration: 2 hours.
 END:VEVENT
+
 BEGIN:VEVENT
-UID:a2a1@qirium
-DTSTAMP:20260127T020000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:Assessment 2A (Attempt 1) Supervised Assessment (Fri class)
-DESCRIPTION:Timed Blackboard assessment under supervision. 2 hours.
-END:VEVENT
-BEGIN:VEVENT
-UID:a1bR@qirium
+UID:qirium-a1a-resit
 DTSTAMP:20260127T020000Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-SUMMARY:Assessment 1B Resit Chemistry Presentation (Fri class)
-DESCRIPTION:Resit multimodal presentation. See Blackboard.
+SUMMARY:Assessment 1A Resit: Physics Knowledge Assessment
+DESCRIPTION:Resit for supervised open book theory assessment.
 END:VEVENT
+
 BEGIN:VEVENT
-UID:a2aR@qirium
+UID:qirium-a1b-attempt1
 DTSTAMP:20260127T020000Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
-SUMMARY:Assessment 2A Resit Supervised Assessment (Fri class)
-DESCRIPTION:Resit. Timed Blackboard under supervision. 2 hours.
+SUMMARY:Assessment 1B (Attempt 1): Chemistry Multimodal Presentation
+DESCRIPTION:Out-of-class multimodal presentation. Refer to Blackboard for details.
 END:VEVENT
+
+BEGIN:VEVENT
+UID:qirium-a2a-attempt1
+DTSTAMP:20260127T020000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Assessment 2A (Attempt 1): Physics & Chemistry Supervised Assessment
+DESCRIPTION:Timed Blackboard assessment under supervision on campus. Duration: 2 hours.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:qirium-a1b-resit
+DTSTAMP:20260127T020000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Assessment 1B Resit: Chemistry Multimodal Presentation
+DESCRIPTION:Resit multimodal presentation. Refer to Blackboard for details.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:qirium-a2a-resit
+DTSTAMP:20260127T020000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Assessment 2A Resit: Physics & Chemistry Supervised Assessment
+DESCRIPTION:Resit supervised Blackboard assessment. Duration: 2 hours.
+END:VEVENT
+
 END:VCALENDAR
